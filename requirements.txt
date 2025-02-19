@@ -1,0 +1,5 @@
+ctransformers==0.2.5 # to load the quintize model
+sentence-transformers==2.2.2 # for creating embedding to use free model (from huggingface)
+pinecone-client
+langchain==0.0.225
+flask
