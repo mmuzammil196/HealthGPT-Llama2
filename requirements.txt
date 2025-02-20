@@ -3,3 +3,4 @@ sentence-transformers==2.2.2 # for creating embedding to use free model (from hu
 pinecone-client
 langchain==0.0.225
 flask
+pypdf
